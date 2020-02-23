@@ -43,7 +43,6 @@ public class Program
         }
         int[] array = list.ToArray();
         return array;
-    }
 	}
 
 	// ДОБАВЬТЕ НОВЫЕ МЕТОДЫ, ЕСЛИ НЕОБХОДИМО
